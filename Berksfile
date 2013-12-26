@@ -1,1 +1,3 @@
 metadata
+
+cookbook 'apt'
